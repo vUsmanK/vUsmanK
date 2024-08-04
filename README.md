@@ -1,10 +1,8 @@
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
-
 <img align="left" src="https://orhun.dev/img/crow.png">
 
 ### Hey!
 
-I'm **Usman*, a strong passion for all things open source. I love writing command-line tools. And I believe in making the most of every opportunity and am always eager to explore new ideas and experiences. 
+I'm **Usman+*, a student who has a strong passion for all things open source. I love writing command-line tools. And I believe in making the most of every opportunity and am always eager to explore new ideas and experiences. 
 
 [![views](https://komarev.com/ghpvc/?username=orhun&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/orhun)
 
