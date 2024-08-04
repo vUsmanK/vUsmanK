@@ -3,8 +3,9 @@
 <img align="left" src="https://orhun.dev/img/crow.png">
 
 ### Hey!
-
+<p align="center">
 I'm **Usman**, a student who has a strong passion for all things open source. I love writing command-line tools. And I believe in making the most of every opportunity and am always eager to explore new ideas and experiences. 
+</p> 
 <hr>
 Currently pursuing my bachelor's degree in Computer Science. I’m passionate about developing products that make people's lives easier and miserable.
 <p align="center">
