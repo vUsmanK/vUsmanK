@@ -11,7 +11,7 @@ I'm **Usman**, a student who has a strong passion for all things open source. I 
 <br>
 <hr>
 Hello 👋 Muhammad Usman here!
-===============================
+<hr>
 
 I’m a Student currently pursuing my bachelor's degree in Computer Science. I’m passionate about developing products that make people's lives easier and miserable.
 
