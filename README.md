@@ -6,7 +6,7 @@
 I'm **Usman**, a student who has a strong passion for all things open source. I love writing command-line tools. And I believe in making the most of every opportunity and am always eager to explore new ideas and experiences. 
 <hr>
 <p align="center">
-Currently pursuing my bachelor's degree in Computer Science. I’m passionate about developing products that make people's lives easier and miserable.
+Currently pursuing my bachelor's degree in Computer Science, who has gained a solid understanding of computer systems, databases, and web development from it. I’m also passionate about developing products that make people's lives easier and miserable.
 </p> 
 <p align="center">
 Portfolio — https://vusmank.github.io/my-portfolio/
