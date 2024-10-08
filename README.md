@@ -9,7 +9,7 @@ I'm **Usman**, a student who has a strong passion for all things open source. I 
 Currently pursuing my bachelor's degree in Computer Science, who has gained a solid understanding of computer systems, databases, and web development from it. I’m also passionate about developing products that make people's lives easier and miserable.
 </p> 
 <p align="center">
-Portfolio — https://vusmank.github.io/my-portfolio/
+Portfolio — https://vusmank.me
 </p> 
 <br>
 <p align="center">
